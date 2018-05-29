@@ -1,5 +1,6 @@
 Creating your first basic decentralized voting application
 
+
 Used:
 •	Solidity
 •	Ganache
